@@ -1,0 +1,32 @@
+.hat{
+background-image:url(/img/Imagini\ frumoase\ pentru\ tine\ №62\ \(9\).jpg);
+background-position: top;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: 80vh;
+padding: 0 20px;
+
+
+}
+header h1{
+color:#cfd3da;
+font-size: 40px;
+}
+header h3{
+color:#cfd3da;
+padding: 20px 0;
+}
+.botton{
+    color:#B58A13;
+    border:1px solid #B58A13;
+    border-radius: 13%;
+    padding: 0 25px;
+    text-decoration: none;
+    
+
+
+}
