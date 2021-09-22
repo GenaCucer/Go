@@ -26,7 +26,18 @@ padding: 20px 0;
     border-radius: 13%;
     padding: 0 25px;
     text-decoration: none;
-    
-
-
 }
+/* end header */
+#section-a{
+    background-color: #1A180B;
+    padding: 10px 20px;
+    display: flex;
+    color:#B58A13;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.left, .right{
+    padding: 10px 10px;
+    max-width: 400px;
+ }
+ /* end section-a */
